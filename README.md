@@ -1,7 +1,1 @@
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Nebraska/blob/master/10E28S_0.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Nebraska/blob/master/11E25N_5.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Nebraska/blob/master/14E41S_4.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Nebraska/blob/master/14E57S_8.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Nebraska/blob/master/14E59N_1.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Nebraska/blob/master/20E70S_0.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Nebraska/blob/master/camera.php.jpg)
+
